@@ -1,6 +1,6 @@
 function Doughters() {
     return (
-        <div>
+        <div className="div-detils">
             <ul> My doughter is:
                 <li>toar</li>
                 <li>halel</li>

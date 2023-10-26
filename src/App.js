@@ -3,6 +3,7 @@ import HelloWorld from "./components/HelloWorld";
 import Doughters from "./components/Doughters";
 import My from "./components/My";
 import MyCopyright from "./components/MyCopyright";
+import RandomImg from "./components/RandomImg";
 
 function App(){
   return (
@@ -10,6 +11,7 @@ function App(){
     <HelloWorld />
     <My />
     <Doughters />
+    <RandomImg />
     <MyCopyright />
     </div>
   )

@@ -14,3 +14,11 @@ body {
 .ul {
   padding: 0;
 }
+
+.div-detils {
+  display: flex;
+}
+
+.is-block {
+  display: block;
+}
