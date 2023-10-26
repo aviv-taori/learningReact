@@ -5,10 +5,15 @@ const myNumPhone = "054-9833292"
 function My() {
     return (
         <div>
-            <h1>my details</h1>
-            
-        </div>
-    )
+            <h1>Welcome</h1>
+            <ul>my details:
+                <li>My name is {myName}</li>
+                <li>I am {myAge} years age</li>
+                <li>My phone number is {myNumPhone}</li>
+            </ul>
 
-    
+        </div>
+    ) 
 }
+
+export default My

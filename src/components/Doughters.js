@@ -1,8 +1,7 @@
 function Doughters() {
     return (
         <div>
-            <hq> My doughter is:</hq>
-            <ul>
+            <ul> My doughter is:
                 <li>toar</li>
                 <li>halel</li>
                 <li>mahyn</li>
